@@ -1,0 +1,6 @@
+[07-Oct-2012 00:46:00 UTC] PHP Parse error:  syntax error, unexpected T_IF, expecting ':' in /home/carolina/public_html/justinholt/willfaulconerphotography/wp-content/themes/blankslate/page.php on line 91
+[07-Oct-2012 23:36:17 UTC] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/carolina/public_html/justinholt/willfaulconerphotography/wp-content/themes/blankslate/page.php on line 153
+[07-Oct-2012 23:38:04 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/carolina/public_html/justinholt/willfaulconerphotography/wp-content/themes/blankslate/page.php on line 155
+[07-Oct-2012 23:38:46 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/carolina/public_html/justinholt/willfaulconerphotography/wp-content/themes/blankslate/page.php on line 150
+[07-Oct-2012 23:38:49 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/carolina/public_html/justinholt/willfaulconerphotography/wp-content/themes/blankslate/page.php on line 150
+[07-Oct-2012 23:38:51 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/carolina/public_html/justinholt/willfaulconerphotography/wp-content/themes/blankslate/page.php on line 150

@@ -1,0 +1,13 @@
+/* Main Styles */
+	body {		
+		margin: 0;
+		padding: 0;
+		background:$green;
+	}
+	#wrapper {
+		position:relative;
+		width:100%;
+		min-height:735px;
+		height:auto;
+		background: white url(../images/header.png) repeat-x center 70px;
+	}
