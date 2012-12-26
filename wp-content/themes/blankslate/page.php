@@ -12,6 +12,7 @@
 							$argsThumb = array(
 								'order'          => 'ASC',
 								'post_type'      => 'attachment',
+								'numberposts'    => -1,
 								'post_parent'    => $post->ID,
 								'post_mime_type' => 'image',
 								'post_status'    => null
