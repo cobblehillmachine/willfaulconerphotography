@@ -21,7 +21,7 @@
 							if ($attachments) {
 								foreach ($attachments as $attachment) {
 									//echo apply_filters('the_title', $attachment->post_title);
-									echo '<li data-yo="yo"><img src="'.wp_get_attachment_url($attachment->ID, 'fullsize', false, false).'" /></li>';
+									echo '<li><img src="'.wp_get_attachment_url($attachment->ID, 'fullsize', false, false).'" /></li>';
 								}
 							}
 						?>
@@ -107,10 +107,13 @@
 						<li><a href="#people" title="">People</a></li>
 						<li><a href="#places" title="">Places</a></li>
 						<li><a href="#homes" title="">Homes</a></li>
+						<li><a href="#food" title="">Food</a></li>
+						<li><a href="#music" title="">Music</a></li>
+						<li><a href="#other" title="">Other</a></li>
 					</ul>
 					<div class="panes">
 						<div id="all" style="display:block;">
-							<?php echo do_shortcode('[gallery id="20, 22, 24" link="file" columns="4"]'); ?>	
+							<?php echo do_shortcode('[gallery id="20, 22, 24, 136, 138, 140" link="file" columns="4"]'); ?>	
 						</div>
 						<div id="people">
 							<?php echo do_shortcode('[gallery id="20" link="file" columns="4"]'); ?>	
@@ -120,6 +123,15 @@
 						</div>
 						<div id="homes">
 							<?php echo do_shortcode('[gallery id="24" link="file" columns="4"]'); ?>	
+						</div>
+						<div id="food">
+							<?php echo do_shortcode('[gallery id="136" link="file" columns="4"]'); ?>	
+						</div>
+						<div id="music">
+							<?php echo do_shortcode('[gallery id="138" link="file" columns="4"]'); ?>	
+						</div>
+						<div id="other">
+							<?php echo do_shortcode('[gallery id="140" link="file" columns="4"]'); ?>	
 						</div>
 					</div>
 					<a class="show_more">Load More</a>
