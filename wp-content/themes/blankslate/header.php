@@ -5,6 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js" <?php language_attributes(); ?>> <!--<![endif]-->
     <head>
         <meta http-equiv="content-type" content="<?php bloginfo('html_type'); ?>; charset=<?php bloginfo('charset'); ?>" />
+        <link rel="shortcut icon" href="<?php bloginfo('template_directory'); ?>/favicon.ico" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title><?php wp_title(' | ', true, 'right'); ?></title>
         <meta name="description" content="">

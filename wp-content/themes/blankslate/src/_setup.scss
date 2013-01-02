@@ -58,12 +58,18 @@ table{border-collapse:collapse;border-spacing:0}
 	=fonts - name like $fontname: 'typekit name';
 	----------------------------------------------------------------------------- */
 	$proxima: 'proxima-nova-alt-ext-cond';
+	$caslon: "adobe-caslon-pro";
 	
 		
 	/* ----------------------------------------------------------------------------
 	=color swatches - name like $color-colorname: #000000; // Example Name
 	----------------------------------------------------------------------------- */
-	$green: #76a685;	
+	$green: #76a685;
+	$pine: #3a585d;	
+	$evergreen: #6a8182;
+	$blue: #546e71;
+	$gray: #e2e6e7;
+	$navy: #334143;
 
 	/* ----------------------------------------------------------------------------
 	=custom mixins

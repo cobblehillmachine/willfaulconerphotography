@@ -14,6 +14,7 @@
 				<li><a href="http://www.facebook.com/CentralVARealtor" title="Will Faulconer on Facebook" class="fb" target="_blank">Will Faulconer on Facebook</a></li>
 				<li><a href="http://www.instagram.com//jwfaulconer" title="Will Faulconer on Instagram" class="in" target="_blank">Will Faulconer on Instagram</a></li>
 			</ul>
+			<a href="http://www.cobblehilldigital.com" title="cobble hill digital" class="cb" target="_blank">site by cobble hill</a>
 		</footer>
 		<?php wp_footer(); ?>
 	</body>
