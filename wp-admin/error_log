@@ -3,3 +3,6 @@
 [12-Dec-2012 19:24:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 148535 bytes) in /home/jackrudy/public_html/willfaulconerphotography/wp-includes/wp-db.php on line 789
 [12-Dec-2012 20:01:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 148535 bytes) in /home/jackrudy/public_html/willfaulconerphotography/wp-includes/wp-db.php on line 789
 [12-Dec-2012 22:53:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 148535 bytes) in /home/jackrudy/public_html/willfaulconerphotography/wp-includes/wp-db.php on line 789
+[18-Dec-2012 22:21:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 148535 bytes) in /home/jackrudy/public_html/willfaulconerphotography/wp-includes/wp-db.php on line 789
+[19-Dec-2012 14:00:58 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 148535 bytes) in /home/jackrudy/public_html/willfaulconerphotography/wp-includes/wp-db.php on line 789
+[19-Dec-2012 15:27:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 148535 bytes) in /home/jackrudy/public_html/willfaulconerphotography/wp-includes/wp-db.php on line 789
