@@ -460,6 +460,18 @@
                     }
                 }
             }
+            .follow_will, .follow_will:visited {
+	            display:block;
+	            width:207px;
+	            color:$navy;
+	            font:600 13px/20px $caslon;
+	            text-align: right;
+	            text-decoration: none;
+	            padding:5px 0 15px;
+	            &:hover {
+	                text-decoration: underline;
+	            }
+	        }
 		}
 	}
 	.contact_wrap {
