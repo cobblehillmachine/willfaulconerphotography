@@ -189,6 +189,17 @@
 						<div class="will_right">
 							<h4>Quick Facts</h4>
 							<?php the_field('right_column_quick_facts'); ?>
+							<h4>Twitter</h4>
+                            <script src="<?php bloginfo('template_directory'); ?>/js/vendor/chirp.js"></script>
+                            <script>Chirp({
+                              user: 'willfaulconer', //Twitter username
+                              max: 3, //Maximum number of tweets to show 
+                              count: 100, //Total tweets to retrieve
+                              retweets: false, //Show/Don't show retweets
+                              replies: false,  //Show/Don't show replies
+                              cacheExpire: 1000 * 60 * 2 //Number of milliseconds to cache tweets
+                            })</script>
+                            <a href="http://www.twitter.com/willfaulconer" title="Follow Will on Twitter" class="follow_will">Follow Will</a>
 						</div>
 					<?php }; ?>
 				</div>

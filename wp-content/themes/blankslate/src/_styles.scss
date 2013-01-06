@@ -422,6 +422,44 @@
 					font:400 13px/20px $caslon;
 				}
 			}
+			.chirp {
+                p {
+                    margin:0 0 4px;
+                    color:$navy;
+					font:400 13px/20px $caslon;
+                    a, a:visited {
+                        text-decoration: none;
+                        color:$navy;
+                        font:400 13px/20px $caslon;
+                        font-style: italic;
+                        &.account {
+                            font-weight: 600;
+                            text-transform: lowercase;
+                            font-style: normal;
+                            &:hover {
+                                text-decoration: none;
+                            }
+                        }
+                        &:hover {
+                            text-decoration: underline;
+                        }
+                    }
+                }
+                span {
+                    display:block;
+                    color:$navy;
+                    padding:0 0 20px;
+                    a, a:visited {
+                        text-decoration: none;
+                        color:$navy;
+                        font:600 13px/20px $caslon;
+                        font-style: normal;
+                        &:hover {
+                            text-decoration: none
+                        }
+                    }
+                }
+            }
 		}
 	}
 	.contact_wrap {
